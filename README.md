@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, soy Cristian</h1>
 <h2 align="center">Estudiante en Desarrollo Web.</h2>
-<br>
+
+![2754 gif daft punk](https://github.com/Cris7ian-tech/Cris7ian-tech/assets/143764439/c2a6141e-79b3-46e1-96fa-a388118d6ab4)
+
 
 <h3 align="center">Contacto:</h3>
 <p align="center">
